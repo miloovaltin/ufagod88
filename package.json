@@ -1,0 +1,16 @@
+{
+"name": "ufagod88",
+"theme": "ufagod88",
+"version": "5.6.3",
+"description": "ufagod88 ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+"keywords": [
+"ufagod88",
+"ufagod88 เครดิตฟรี",
+"ufagod88 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufagod88",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
